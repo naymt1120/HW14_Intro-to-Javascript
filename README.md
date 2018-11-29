@@ -1,6 +1,6 @@
 # HW14_Intro-to-Javascript
 HW14
-# Unit 14 | Assignment - JavaScript and DOM Manipulation
+
 
 ## Background
 
