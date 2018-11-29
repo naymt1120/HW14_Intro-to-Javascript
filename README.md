@@ -1,6 +1,4 @@
-# HW14_Intro-to-Javascript
-HW14
-
+# Unit 14 | Assignment - JavaScript and DOM Manipulation
 
 ## Background
 
@@ -53,3 +51,9 @@ Your final product will be assessed on the following metrics:
 * Usability
 
 **Good luck!**
+
+- - -
+
+### Copyright
+
+Data Boot Camp © 2018. All Rights Reserved.
